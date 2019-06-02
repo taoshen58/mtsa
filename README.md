@@ -108,6 +108,24 @@ The result dir will appear after any running. Every `files[f]` and `directory[d]
 
 The details of parsing hyper-params are elaborated in `config.py`
 
+
+## Paper Info
+
+The full paper can be viewed at [here](https://www.aclweb.org/anthology/N19-1127)
+
+And please cite this paper if the paper or its code is useful for your work.
+```
+
+@inproceedings{shen2019tensorized,
+	Author = {Shen, Tao and Zhou, Tianyi and Long, Guodong and Jiang, Jing and Zhang, Chengqi},
+	Booktitle = {(NAACL) Annual Conference of the North American Chapter of the Association for Computational Linguisticss},
+	Pages = {1256--1266},
+	Title = {Tensorized Self-Attention: Efficiently Modeling Pairwise and Global Dependencies Together},
+	Year = {2019}
+}
+
+```
+
 ## Contact Information
 
 Please feel free to open an issue if any problem and bug is encountered.
